@@ -2,9 +2,9 @@
 
 Pour tester l'application, suivez ces étapes :
 
-1/ Démarrez d'abord le back-end, puis le front-end (avec "npm run start").
-2/ Lors du démarrage du front-end, acceptez l'utilisation du port 3001.
-3/ Accédez à l'interface via ce lien : http://localhost:3001/dashboard/12.
+1/ Démarrez d'abord le back-end, puis le front-end (avec "npm run start").\
+2/ Lors du démarrage du front-end, acceptez l'utilisation du port 3001.\
+3/ Accédez à l'interface via ce lien : http://localhost:3001/dashboard/12.\
 
 
 
