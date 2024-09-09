@@ -1,0 +1,58 @@
+.footer{
+
+    grid-row: span 2;
+    background-color: black;
+    display: grid;
+    grid-template-rows: 1fr 2fr 1fr;
+    place-content: center;
+    place-items: center;
+
+    nav{
+
+        display: grid;
+        place-content: center center;
+        grid-row-start: 2;
+        gap: 20px;
+        width: 100px;
+        margin: auto;
+
+        a{
+
+            width: 64px;
+            height: 64px;
+            background-color: white;
+            border-radius: 6px;
+            display: grid;
+            place-content: center;
+
+
+            ion-icon{
+
+                color: #FF0101;
+                font-size: 50px;
+
+
+            }
+
+        }
+
+
+    }
+
+    p{
+
+        grid-row-start: 3;
+        color: white;
+        font-size: 12px;
+        font-weight: 500;
+        transform: rotate(-90deg);
+        white-space: nowrap
+
+    }
+
+
+
+
+
+
+}
